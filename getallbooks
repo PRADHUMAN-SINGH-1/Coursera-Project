@@ -5,14 +5,16 @@ curl -s http://localhost:3000/
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "reviews": {
-      "init": "Motivational classic"
+      "admin": "A timeless inspirational classic."
     }
   },
   "2": {
     "isbn": "2",
     "title": "Sapiens",
     "author": "Yuval Noah Harari",
-    "reviews": {}
+    "reviews": {
+      "demo": "Great read"
+    }
   },
   "3": {
     "isbn": "3",
@@ -22,44 +24,44 @@ curl -s http://localhost:3000/
   },
   "4": {
     "isbn": "4",
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "reviews": {}
-  },
-  "5": {
-    "isbn": "5",
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen",
-    "reviews": {}
-  },
-  "6": {
-    "isbn": "6",
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "reviews": {}
   },
+  "5": {
+    "isbn": "5",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": {}
+  },
+  "6": {
+    "isbn": "6",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "reviews": {}
+  },
   "7": {
     "isbn": "7",
-    "title": "Moby-Dick",
-    "author": "Herman Melville",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
     "reviews": {}
   },
   "8": {
     "isbn": "8",
-    "title": "Brave New World",
-    "author": "Aldous Huxley",
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
     "reviews": {}
   },
   "9": {
     "isbn": "9",
-    "title": "The Hobbit",
-    "author": "J.R.R. Tolkien",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
     "reviews": {}
   },
   "10": {
     "isbn": "10",
-    "title": "The Catcher in the Rye",
-    "author": "J.D. Salinger",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
     "reviews": {}
   }
 }

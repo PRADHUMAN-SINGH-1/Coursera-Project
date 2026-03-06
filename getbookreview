@@ -1,4 +1,4 @@
 curl -s http://localhost:3000/review/1
 {
-  "init": "Motivational classic"
+  "admin": "A timeless inspirational classic."
 }
