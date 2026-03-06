@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="156">
+<rect width="100%" height="100%" fill="#0f172a"/>
+<rect x="12" y="12" width="1376" height="132" fill="#111827" stroke="#334155"/>
+<text x="24" y="28" fill="#93c5fd" font-size="14" font-family="monospace">Task 14 - GitHub link</text>
+<text x="24" y="46" fill="#e5e7eb" font-size="14" font-family="monospace"></text>
+<text x="24" y="64" fill="#e5e7eb" font-size="14" font-family="monospace">Task 14: Submission of Project GitHub Link</text>
+<text x="24" y="82" fill="#e5e7eb" font-size="14" font-family="monospace">https://github.com/PRADHUMAN-SINGH-1/expressBookReview</text>
+<text x="24" y="100" fill="#e5e7eb" font-size="14" font-family="monospace">general.js URL:</text>
+<text x="24" y="118" fill="#e5e7eb" font-size="14" font-family="monospace">https://github.com/PRADHUMAN-SINGH-1/expressBookReview/blob/main/general.js</text>
+</svg>

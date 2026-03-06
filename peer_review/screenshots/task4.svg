@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="246">
+<rect width="100%" height="100%" fill="#0f172a"/>
+<rect x="12" y="12" width="1376" height="222" fill="#111827" stroke="#334155"/>
+<text x="24" y="28" fill="#93c5fd" font-size="14" font-family="monospace">Task 4 - Get books by Title</text>
+<text x="24" y="46" fill="#e5e7eb" font-size="14" font-family="monospace"></text>
+<text x="24" y="64" fill="#e5e7eb" font-size="14" font-family="monospace">curl -s &quot;http://localhost:3000/title/1984&quot;</text>
+<text x="24" y="82" fill="#e5e7eb" font-size="14" font-family="monospace">[</text>
+<text x="24" y="100" fill="#e5e7eb" font-size="14" font-family="monospace">  {</text>
+<text x="24" y="118" fill="#e5e7eb" font-size="14" font-family="monospace">    &quot;isbn&quot;: &quot;3&quot;,</text>
+<text x="24" y="136" fill="#e5e7eb" font-size="14" font-family="monospace">    &quot;title&quot;: &quot;1984&quot;,</text>
+<text x="24" y="154" fill="#e5e7eb" font-size="14" font-family="monospace">    &quot;author&quot;: &quot;George Orwell&quot;,</text>
+<text x="24" y="172" fill="#e5e7eb" font-size="14" font-family="monospace">    &quot;reviews&quot;: {}</text>
+<text x="24" y="190" fill="#e5e7eb" font-size="14" font-family="monospace">  }</text>
+<text x="24" y="208" fill="#e5e7eb" font-size="14" font-family="monospace">]</text>
+</svg>
