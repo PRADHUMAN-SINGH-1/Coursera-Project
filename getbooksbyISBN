@@ -4,6 +4,6 @@ curl -s http://localhost:3000/isbn/1
   "title": "The Alchemist",
   "author": "Paulo Coelho",
   "reviews": {
-    "admin": "A timeless inspirational classic."
+    "init": "Motivational classic"
   }
 }

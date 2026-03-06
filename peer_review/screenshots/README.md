@@ -1,16 +1,19 @@
-# Screenshots (stored in repository)
+# Output Screenshots (for peer review)
 
-These screenshot files are committed in-repo for peer-review upload:
+These are output-focused screenshot files (command + response), not code-view images:
 
-- task1.svg
-- task2.svg
-- task3.svg
-- task4.svg
-- task5.svg
-- task6.svg
-- task7.svg
-- task8.svg
-- task9.svg
-- task10_13.svg
-- task14.svg
-- task_fork.svg
+- task1_output.svg
+- task2_output.svg
+- task3_output.svg
+- task4_output.svg
+- task5_output.svg
+- task6_output.svg
+- task7_output.svg
+- task8_output.svg
+- task9_output.svg
+- task10_output.svg
+- task11_output.svg
+- task12_output.svg
+- task13_output.svg
+- task14_output.svg
+- task_fork_output.svg

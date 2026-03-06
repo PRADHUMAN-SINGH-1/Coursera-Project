@@ -2,7 +2,7 @@ curl -s -X PUT http://localhost:3000/review/1 -H 'Authorization: Bearer john-tok
 {
   "message": "Review added successfully",
   "reviews": {
-    "admin": "A timeless inspirational classic.",
+    "init": "Motivational classic",
     "john": "Excellent book"
   }
 }
