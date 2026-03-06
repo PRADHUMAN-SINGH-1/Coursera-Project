@@ -1,0 +1,8 @@
+curl -s -X PUT http://localhost:3000/review/1 -H 'Authorization: Bearer john-token' -H 'Content-Type: application/json' -d '{"review":"Excellent book"}'
+{
+  "message": "Review added successfully",
+  "reviews": {
+    "admin": "A timeless inspirational classic.",
+    "john": "Excellent book"
+  }
+}
