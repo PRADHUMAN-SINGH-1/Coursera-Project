@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="156">
+<rect width="100%" height="100%" fill="#0f172a"/>
+<rect x="12" y="12" width="1376" height="132" fill="#111827" stroke="#334155"/>
+<text x="24" y="28" fill="#93c5fd" font-size="14" font-family="monospace">Task 9 - Delete review</text>
+<text x="24" y="46" fill="#e5e7eb" font-size="14" font-family="monospace"></text>
+<text x="24" y="64" fill="#e5e7eb" font-size="14" font-family="monospace">curl -s -X DELETE http://localhost:3000/review/1 -H &#x27;Authorization: Bearer john-token&#x27;</text>
+<text x="24" y="82" fill="#e5e7eb" font-size="14" font-family="monospace">{</text>
+<text x="24" y="100" fill="#e5e7eb" font-size="14" font-family="monospace">  &quot;message&quot;: &quot;Review deleted successfully!&quot;</text>
+<text x="24" y="118" fill="#e5e7eb" font-size="14" font-family="monospace">}</text>
+</svg>
