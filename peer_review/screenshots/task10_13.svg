@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="282">
+<rect width="100%" height="100%" fill="#0f172a"/>
+<rect x="12" y="12" width="1376" height="258" fill="#111827" stroke="#334155"/>
+<text x="24" y="28" fill="#93c5fd" font-size="14" font-family="monospace">Task 10-13 - Axios methods</text>
+<text x="24" y="46" fill="#e5e7eb" font-size="14" font-family="monospace"></text>
+<text x="24" y="64" fill="#e5e7eb" font-size="14" font-family="monospace">Task 10: Get all books – Using async/await</text>
+<text x="24" y="82" fill="#e5e7eb" font-size="14" font-family="monospace">Method: getAllBooks()</text>
+<text x="24" y="100" fill="#e5e7eb" font-size="14" font-family="monospace"></text>
+<text x="24" y="118" fill="#e5e7eb" font-size="14" font-family="monospace">Task 11: Search by ISBN – Using Promises</text>
+<text x="24" y="136" fill="#e5e7eb" font-size="14" font-family="monospace">Method: getBookByISBN(isbn)</text>
+<text x="24" y="154" fill="#e5e7eb" font-size="14" font-family="monospace"></text>
+<text x="24" y="172" fill="#e5e7eb" font-size="14" font-family="monospace">Task 12: Search by Author – Using async/await</text>
+<text x="24" y="190" fill="#e5e7eb" font-size="14" font-family="monospace">Method: getBooksByAuthor(author)</text>
+<text x="24" y="208" fill="#e5e7eb" font-size="14" font-family="monospace"></text>
+<text x="24" y="226" fill="#e5e7eb" font-size="14" font-family="monospace">Task 13: Search by Title – Using async/await</text>
+<text x="24" y="244" fill="#e5e7eb" font-size="14" font-family="monospace">Method: getBooksByTitle(title)</text>
+</svg>
