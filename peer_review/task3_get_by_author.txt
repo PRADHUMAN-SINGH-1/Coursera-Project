@@ -1,0 +1,11 @@
+curl -s "http://localhost:3000/author/Paulo"
+[
+  {
+    "isbn": "1",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "reviews": {
+      "init": "Motivational classic"
+    }
+  }
+]

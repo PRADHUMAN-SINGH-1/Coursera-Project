@@ -1,0 +1,9 @@
+<!doctype html><html><body><h2>Task 8 - Add/Modify Review</h2><pre>curl -s -X PUT http://localhost:3000/review/1 -H 'Authorization: Bearer john-token' -H 'Content-Type: application/json' -d '{"review":"Excellent book"}'
+{
+  "message": "Review added successfully",
+  "reviews": {
+    "init": "Motivational classic",
+    "john": "Excellent book"
+  }
+}
+</pre></body></html>
